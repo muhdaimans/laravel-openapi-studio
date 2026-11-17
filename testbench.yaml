@@ -1,0 +1,8 @@
+providers:
+  - OpenApiStudio\OpenApiStudioServiceProvider
+
+env:
+  - APP_ENV=local
+  - APP_DEBUG=true
+  - APP_KEY=base64:YWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE=
+  - SESSION_DRIVER=file
